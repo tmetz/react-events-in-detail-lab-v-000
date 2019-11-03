@@ -9,11 +9,9 @@ class CoordinatesButton extends React.Component {
   render() {
     return (
       <button onClick={handleClick}></button>
-      
+
     )
   }
 }
 
 export default CoordinatesButton;
-
-
